@@ -23,7 +23,7 @@ Watch a complete walkthrough of the system, including dashboard insights, projec
 - Total projects, tasks, and pending approvals
 - Aggregated **budget vs. spent**
 - Clean KPI cards and quick insights
-
+![Dashboard Screenshot](assets\Dashbroad1.png)
 ### 📋 Project Management
 - View all projects with:
   - Status badges (Active / Completed / Delayed)
