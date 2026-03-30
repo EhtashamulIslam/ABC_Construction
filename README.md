@@ -5,7 +5,15 @@ A modern, data-driven **Web ERP application** built using **React (Vite + TypeSc
 Designed specifically for **non-technical business users**, the system emphasizes **clarity, usability, and clean UI/UX**.
 
 ---
+---
 
+## 🌐 Live Demo
+
+🔗 https://abc-construction-ehtashamul.netlify.app
+
+Explore the live application to experience the full ERP system, including dashboard insights, project tracking, task management, and payment approvals.
+
+---
 ## 🚀 Features
 
 ### 🏠 Dashboard
