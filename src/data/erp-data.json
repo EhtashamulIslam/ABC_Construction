@@ -1,0 +1,265 @@
+{
+  "company": {
+    "companyId": "CMP-001",
+    "name": "ABC Construction Ltd",
+    "currency": "BDT",
+    "headOffice": {
+      "address": "Dhaka, Bangladesh",
+      "contact": {
+        "phone": "+880123456789",
+        "email": "info@abcconstruction.com"
+      }
+    },
+    "projects": [
+      {
+        "projectId": "PRJ-101",
+        "name": "Dhaka Elevated Expressway",
+        "status": "In Progress",
+        "timeline": {
+          "startDate": "2024-01-10",
+          "endDate": "2025-06-30",
+          "milestones": [
+            {
+              "milestoneId": "M-01",
+              "title": "Feasibility Study",
+              "status": "Completed"
+            },
+            {
+              "milestoneId": "M-02",
+              "title": "Foundation Completion",
+              "status": "In Progress"
+            }
+          ]
+        },
+        "manager": {
+          "employeeId": "EMP-01",
+          "name": "Lutfor Kumar Tompy",
+          "designation": "Project Director",
+          "email": "lkt@gmail.com"
+        },
+        "teams": [
+          {
+            "teamId": "TEAM-ENG",
+            "name": "Engineering Team",
+            "members": [
+              { "name": "Rahim Uddin", "role": "Civil Engineer" },
+              { "name": "Karim Hasan", "role": "Structural Engineer" }
+            ]
+          },
+          {
+            "teamId": "TEAM-CIV",
+            "name": "Civil Team",
+            "members": [
+              { "name": "Shafiq Ahmed", "role": "Site Supervisor" }
+            ]
+          }
+        ],
+        "budget": {
+          "total": 150000000,
+          "spent": 97500000,
+          "categories": [
+            {
+              "name": "Materials",
+              "allocated": 70000000,
+              "spent": 48000000,
+              "subCategories": [
+                {
+                  "name": "Steel",
+                  "allocated": 30000000,
+                  "spent": 21000000
+                },
+                {
+                  "name": "Concrete",
+                  "allocated": 40000000,
+                  "spent": 27000000
+                }
+              ]
+            },
+            {
+              "name": "Labor",
+              "allocated": 40000000,
+              "spent": 32000000,
+              "subCategories": [
+                {
+                  "name": "Skilled Labor",
+                  "allocated": 25000000,
+                  "spent": 20000000
+                },
+                {
+                  "name": "Unskilled Labor",
+                  "allocated": 15000000,
+                  "spent": 12000000
+                }
+              ]
+            },
+            {
+              "name": "Logistics",
+              "allocated": 25000000,
+              "spent": 17500000
+            }
+          ]
+        },
+        "tasks": [
+          {
+            "taskId": "T-001",
+            "title": "Site Survey",
+            "assignedTeam": "Engineering Team",
+            "priority": "High",
+            "progress": 100,
+            "subTasks": [
+              { "subTaskId": "ST-01", "title": "Soil Testing", "status": "Completed" },
+              { "subTaskId": "ST-02", "title": "Topographic Mapping", "status": "Completed" }
+            ],
+            "activityLogs": [
+              {
+                "date": "2024-02-01",
+                "updatedBy": "Rahim Uddin",
+                "remark": "Survey completed successfully"
+              }
+            ]
+          }
+        ],
+        "payments": [
+          {
+            "paymentId": "PAY-01",
+            "amount": 12000000,
+            "requestedBy": "Procurement",
+            "requestDate": "2024-03-15",
+            "invoices": [
+              { "invoiceId": "INV-001", "vendor": "Steel Supplier Ltd", "amount": 8000000 },
+              { "invoiceId": "INV-002", "vendor": "Concrete Supplier Ltd", "amount": 4000000 }
+            ],
+            "approvalFlow": {
+              "approvedBy": "Finance Head",
+              "approvedDate": "2024-03-20",
+              "status": "Approved"
+            }
+          }
+        ],
+        "risks": [
+          {
+            "riskId": "R-01",
+            "description": "Delay due to monsoon season",
+            "severity": "High",
+            "mitigation": "Adjust construction schedule"
+          }
+        ]
+      },
+      {
+        "projectId": "PRJ-102",
+        "name": "Metro Rail Depot Construction",
+        "status": "Planning",
+        "timeline": {
+          "startDate": "2024-07-01",
+          "endDate": "2026-12-31",
+          "milestones": [
+            {
+              "milestoneId": "M-03",
+              "title": "Land Acquisition",
+              "status": "Pending"
+            }
+          ]
+        },
+        "manager": {
+          "employeeId": "EMP-02",
+          "name": "Sajid Mahmud",
+          "designation": "Senior Project Manager",
+          "email": "sajid@abcconstruction.com"
+        },
+        "teams": [],
+        "budget": {
+          "total": 90000000,
+          "spent": 5000000,
+          "categories": [
+            {
+              "name": "Planning",
+              "allocated": 15000000,
+              "spent": 5000000
+            }
+          ]
+        },
+        "tasks": [
+          {
+            "taskId": "T-010",
+            "title": "Site Selection",
+            "assignedTeam": "Planning Team",
+            "priority": "High",
+            "progress": 20,
+            "subTasks": [],
+            "activityLogs": []
+          }
+        ],
+        "payments": [],
+        "risks": [
+          {
+            "riskId": "R-02",
+            "description": "Land acquisition delay",
+            "severity": "Medium",
+            "mitigation": "Government liaison"
+          }
+        ]
+      },
+      {
+        "projectId": "PRJ-103",
+        "name": "Chattogram Port Access Road",
+        "status": "Completed",
+        "timeline": {
+          "startDate": "2022-03-01",
+          "endDate": "2024-02-15",
+          "milestones": [
+            {
+              "milestoneId": "M-04",
+              "title": "Final Inspection",
+              "status": "Completed"
+            }
+          ]
+        },
+        "manager": {
+          "employeeId": "EMP-03",
+          "name": "Nusrat Jahan",
+          "designation": "Project Manager",
+          "email": "nusrat@abcconstruction.com"
+        },
+        "teams": [
+          {
+            "teamId": "TEAM-QA",
+            "name": "Quality Assurance Team",
+            "members": [
+              { "name": "Imran Hossain", "role": "QA Engineer" }
+            ]
+          }
+        ],
+        "budget": {
+          "total": 60000000,
+          "spent": 60000000,
+          "categories": [
+            {
+              "name": "Execution",
+              "allocated": 60000000,
+              "spent": 60000000
+            }
+          ]
+        },
+        "tasks": [
+          {
+            "taskId": "T-020",
+            "title": "Final Quality Audit",
+            "assignedTeam": "Quality Assurance Team",
+            "priority": "Medium",
+            "progress": 100,
+            "subTasks": [],
+            "activityLogs": [
+              {
+                "date": "2024-02-10",
+                "updatedBy": "Imran Hossain",
+                "remark": "Project handed over successfully"
+              }
+            ]
+          }
+        ],
+        "payments": [],
+        "risks": []
+      }
+    ]
+  }
+}
