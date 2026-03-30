@@ -1,19 +1,21 @@
 # 🏗️ ABC Construction ERP System
 
+🔗 **Live Demo:** https://abc-construction-ehtashamul.netlify.app  
+
 A modern, data-driven **Web ERP application** built using **React (Vite + TypeScript)** for managing construction projects, budgets, tasks, teams, and financial approvals.
 
 Designed specifically for **non-technical business users**, the system emphasizes **clarity, usability, and clean UI/UX**.
 
 ---
+
+## 🎥 Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/vwdYQItM3Qs/0.jpg)](https://youtu.be/vwdYQItM3Qs)
+
+Watch a complete walkthrough of the system, including dashboard insights, project tracking, task management, and payment approvals.
+
 ---
 
-## 🌐 Live Demo
-
-🔗 https://abc-construction-ehtashamul.netlify.app
-
-Explore the live application to experience the full ERP system, including dashboard insights, project tracking, task management, and payment approvals.
-
----
 ## 🚀 Features
 
 ### 🏠 Dashboard
