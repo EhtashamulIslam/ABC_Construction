@@ -91,3 +91,7 @@ yarn install
 npm run dev
 # or
 yarn dev
+
+Open in browser
+Go to http://localhost:3000
+The project should now be running locally.
