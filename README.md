@@ -31,7 +31,7 @@ Watch a complete walkthrough of the system, including dashboard insights, projec
   - Budget utilization (progress bars)
   - Project manager details
 - Navigate to detailed project insights
-
+![Dashboard](./assets/project1.png)
 ### 📄 Project Details
 - Project metadata (status, timeline, manager)
 - Budget breakdown by categories
