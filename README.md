@@ -59,6 +59,35 @@ Watch a complete walkthrough of the system, including dashboard insights, projec
 - **State/Data Handling:** Local JSON + Service Layer  
 - **Architecture:** Component-based, reusable UI  
 
----
+## 🛠 Installation & Setup
 
-## 📁 Project Structure
+Follow these steps to run this project locally.
+
+### 🔹 Prerequisites
+
+Make sure you have installed:
+
+- **Node.js (v18+)** — https://nodejs.org/
+- **npm** (comes with Node) or **yarn**
+- **Git**
+
+### 🔹 Clone the Repository
+
+```bash
+git clone https://github.com/EhtashamulIslam/ABC_Construction.git
+cd ABC_Construction
+
+
+🔹 Install Dependencies
+# Using npm
+npm install
+
+# Or using yarn
+yarn install
+
+
+
+🔹 Start the App
+npm run dev
+# or
+yarn dev
