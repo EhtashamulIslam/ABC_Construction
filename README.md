@@ -10,7 +10,7 @@ Designed specifically for **non-technical business users**, the system emphasize
 
 ## 🎥 Demo Video
 
-[![Watch the Demo](https://img.youtube.com/vi/vwdYQItM3Qs/0.jpg)](https://youtu.be/vwdYQItM3Qs)
+[![Watch the Demo](https://img.youtube.com/vi/vwdYQItM3Qs/0.jpg)](https://www.youtube.com/watch?v=rEVnr-a597E)
 
 Watch a complete walkthrough of the system, including dashboard insights, project tracking, task management, and payment approvals.
 
