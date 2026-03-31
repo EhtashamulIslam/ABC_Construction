@@ -32,23 +32,24 @@ Watch a complete walkthrough of the system, including dashboard insights, projec
   - Project manager details
 - Navigate to detailed project insights
 ![Dashboard](./assets/project1.png)
+![Dashboard](./assets/project2.png)
 ### 📄 Project Details
 - Project metadata (status, timeline, manager)
 - Budget breakdown by categories
 - Task progress tracking
 - Assigned team overview
-
+![Dashboard](./assets/project2.png)
 ### 👥 Tasks & Teams
 - Tasks grouped by status (To Do / In Progress / Completed)
 - Priority indicators (High / Medium / Low)
 - Assigned team members
 - Completion percentages
-
+![Dashboard](./assets/teams.png)
 ### 💳 Payments & Approvals
 - Track payment requests
 - Approval workflow (Pending / Approved / Rejected)
 - Requested by / Approved by tracking
-
+![Dashboard](./assets/payment.png)
 ---
 
 ## 🧱 Tech Stack
